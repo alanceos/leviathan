@@ -1,0 +1,1902 @@
+[
+  {
+    "name": "Cena",
+    "wines": [
+      {
+        "type": "Vino Tinto",
+        "songs": [
+          {
+            "title": "Fly Me to the Moon",
+            "artist": "Frank Sinatra",
+            "spotifyId": "7FXj7Qg3YorUxdrzvrcY25",
+            "uri": "spotify:track:7FXj7Qg3YorUxdrzvrcY25",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Come Away With Me",
+            "artist": "Norah Jones",
+            "spotifyId": "6jGnykaS6TkWp15utXSAeI",
+            "uri": "spotify:track:6jGnykaS6TkWp15utXSAeI",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Look of Love",
+            "artist": "Diana Krall",
+            "spotifyId": "3CDHydgW0ssTh59f0jy1y3",
+            "uri": "spotify:track:3CDHydgW0ssTh59f0jy1y3",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Feeling Good",
+            "artist": "Michael Bublé",
+            "spotifyId": "1AM8QdDFZMq6SrrqUnuQ9P",
+            "uri": "spotify:track:1AM8QdDFZMq6SrrqUnuQ9P",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Summertime",
+            "artist": "Ella Fitzgerald",
+            "spotifyId": "2gNjmvuQiEd2z9SqyYi8HH",
+            "uri": "spotify:track:2gNjmvuQiEd2z9SqyYi8HH",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Unforgettable",
+            "artist": "Nat King Cole",
+            "spotifyId": "648TTtYB0bH0P8Hfy0FmkL",
+            "uri": "spotify:track:648TTtYB0bH0P8Hfy0FmkL",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I Left My Heart in San Francisco",
+            "artist": "Tony Bennett",
+            "spotifyId": "1bYItjcPRtxZs6Ir71O5RB",
+            "uri": "spotify:track:1bYItjcPRtxZs6Ir71O5RB",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Blue Moon",
+            "artist": "Billie Holiday",
+            "spotifyId": "1pZn8AX1WulW8IO338hE5D",
+            "uri": "spotify:track:1pZn8AX1WulW8IO338hE5D",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "What a Wonderful World",
+            "artist": "Louis Armstrong",
+            "spotifyId": "29U7stRjqHU6rMiS8BfaI9",
+            "uri": "spotify:track:29U7stRjqHU6rMiS8BfaI9",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Ain't That a Kick in the Head",
+            "artist": "Dean Martin",
+            "spotifyId": "7fQ3PYTYdu208fQ3JEm2U7",
+            "uri": "spotify:track:7fQ3PYTYdu208fQ3JEm2U7",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Garota de Ipanema",
+            "artist": "Antônio Carlos Jobim",
+            "spotifyId": "2vTDA7mOYWtuduCylWfiFd",
+            "uri": "spotify:track:2vTDA7mOYWtuduCylWfiFd",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Águas de Março",
+            "artist": "João Gilberto",
+            "spotifyId": "7Jj66NaXj1Nn6xrkB7vlSf",
+            "uri": "spotify:track:7Jj66NaXj1Nn6xrkB7vlSf",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Sodade",
+            "artist": "Cesária Évora",
+            "spotifyId": "7xzMrUmlooPa1Fmp88hlYc",
+            "uri": "spotify:track:7xzMrUmlooPa1Fmp88hlYc",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Samba da Bênção",
+            "artist": "Bebel Gilberto",
+            "spotifyId": "5cFYzOBhIkED9cEeeksveU",
+            "uri": "spotify:track:5cFYzOBhIkED9cEeeksveU",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Girl from Ipanema",
+            "artist": "Astrud Gilberto",
+            "spotifyId": "4qGfJb2KByjvzrwo8HNibg",
+            "uri": "spotify:track:4qGfJb2KByjvzrwo8HNibg",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Blanco",
+        "songs": [
+          {
+            "title": "Nuvole Bianche",
+            "artist": "Ludovico Einaudi",
+            "spotifyId": "3weNRklVDqb4Rr5MhKBR3D",
+            "uri": "spotify:track:3weNRklVDqb4Rr5MhKBR3D",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Bach: Cello Suite No. 1",
+            "artist": "Yo-Yo Ma",
+            "spotifyId": "17i5jLpzndlQhbS4SrTd0B",
+            "uri": "spotify:track:17i5jLpzndlQhbS4SrTd0B",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Only Time",
+            "artist": "Enya",
+            "spotifyId": "6FLwmdmW77N1Pxb1aWsZmO",
+            "uri": "spotify:track:6FLwmdmW77N1Pxb1aWsZmO",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "On the Nature of Daylight",
+            "artist": "Max Richter",
+            "spotifyId": "56oReVXIfUO9xkX7pHmEU0",
+            "uri": "spotify:track:56oReVXIfUO9xkX7pHmEU0",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Comptine d'un autre été",
+            "artist": "Yann Tiersen",
+            "spotifyId": "14rZjW3RioG7WesZhYESso",
+            "uri": "spotify:track:14rZjW3RioG7WesZhYESso",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Clair de Lune",
+            "artist": "Debussy",
+            "spotifyId": "5ugBexuyPh5ruJKYGQ3eQ1",
+            "uri": "spotify:track:5ugBexuyPh5ruJKYGQ3eQ1",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Nocturne in E-flat Major, Op. 9 No. 2",
+            "artist": "Chopin",
+            "spotifyId": "1VNvsvEsUpuUCbHpVop1vo",
+            "uri": "spotify:track:1VNvsvEsUpuUCbHpVop1vo",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Gymnopédie No. 1",
+            "artist": "Satie",
+            "spotifyId": "5NGtFXVpXSvwunEIGeviY3",
+            "uri": "spotify:track:5NGtFXVpXSvwunEIGeviY3",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Metamorphosis Two",
+            "artist": "Philip Glass",
+            "spotifyId": "5oGc3vAHn2LQI17rMn1znd",
+            "uri": "spotify:track:5oGc3vAHn2LQI17rMn1znd",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Spiegel im Spiegel",
+            "artist": "Arvo Pärt",
+            "spotifyId": "7zHd9LxIZB8WKosSWN9Umj",
+            "uri": "spotify:track:7zHd9LxIZB8WKosSWN9Umj",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Don't Know Why",
+            "artist": "Norah Jones",
+            "spotifyId": "1zNXF2svmdlNxfS5XeNUgr",
+            "uri": "spotify:track:1zNXF2svmdlNxfS5XeNUgr",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Let's Fall in Love",
+            "artist": "Diana Krall",
+            "spotifyId": "4IVyX0UJzGyUk0MLiz1jVJ",
+            "uri": "spotify:track:4IVyX0UJzGyUk0MLiz1jVJ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "La Vie en Rose",
+            "artist": "Madeleine Peyroux",
+            "spotifyId": "1njxWb5fM5L5eEq9MyWddU",
+            "uri": "spotify:track:1njxWb5fM5L5eEq9MyWddU",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "My One and Only Thrill",
+            "artist": "Melody Gardot",
+            "spotifyId": "3XZN4wXwG2o0OadHWExzPr",
+            "uri": "spotify:track:3XZN4wXwG2o0OadHWExzPr",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Closest Thing to Crazy",
+            "artist": "Katie Melua",
+            "spotifyId": "5G4aJisG0COJAsLtbTbHpC",
+            "uri": "spotify:track:5G4aJisG0COJAsLtbTbHpC",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Rosado",
+        "songs": [
+          {
+            "title": "Banana Pancakes",
+            "artist": "Jack Johnson",
+            "spotifyId": "0BgbobvykXxEvxo2HhCuvM",
+            "uri": "spotify:track:0BgbobvykXxEvxo2HhCuvM",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Ho Hey",
+            "artist": "The Lumineers",
+            "spotifyId": "0DwClY2t9YAWHBROMIgrXb",
+            "uri": "spotify:track:0DwClY2t9YAWHBROMIgrXb",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Mess Is Mine",
+            "artist": "Vance Joy",
+            "spotifyId": "6IJXxWAHTVORSyl7lT5pkY",
+            "uri": "spotify:track:6IJXxWAHTVORSyl7lT5pkY",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Steal My Kisses",
+            "artist": "Ben Harper",
+            "spotifyId": "0RAbLZiTX9kJHjVuThtjSM",
+            "uri": "spotify:track:0RAbLZiTX9kJHjVuThtjSM",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Lucky",
+            "artist": "Jason Mraz ft. Colbie Caillat",
+            "spotifyId": "7DagznAXdq3Ji5MvtkpB66",
+            "uri": "spotify:track:7DagznAXdq3Ji5MvtkpB66",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Sunrise",
+            "artist": "Norah Jones",
+            "spotifyId": "7zkLpY72g6lKQbiHDqri1S",
+            "uri": "spotify:track:7zkLpY72g6lKQbiHDqri1S",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Trouble Sleeping",
+            "artist": "Corinne Bailey Rae",
+            "spotifyId": "7m8PDR3PRg5lPhWMdYrktc",
+            "uri": "spotify:track:7m8PDR3PRg5lPhWMdYrktc",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Way I Am",
+            "artist": "Ingrid Michaelson",
+            "spotifyId": "43ddJFnP8m3PzNJXiHuiyJ",
+            "uri": "spotify:track:43ddJFnP8m3PzNJXiHuiyJ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Bloom",
+            "artist": "The Paper Kites",
+            "spotifyId": "1HMQmOWrkieKYWlFsjUP3D",
+            "uri": "spotify:track:1HMQmOWrkieKYWlFsjUP3D",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Little Talks",
+            "artist": "Of Monsters and Men",
+            "spotifyId": "2ihCaVdNZmnHZWt0fvAM7B",
+            "uri": "spotify:track:2ihCaVdNZmnHZWt0fvAM7B",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Home",
+            "artist": "Edward Sharpe & The Magnetic Zeros",
+            "spotifyId": "2x1jP9BexWtOKudvuUHbaD",
+            "uri": "spotify:track:2x1jP9BexWtOKudvuUHbaD",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I Will Wait",
+            "artist": "Mumford & Sons",
+            "spotifyId": "4kbYevkszYmMhoQcwnR7cZ",
+            "uri": "spotify:track:4kbYevkszYmMhoQcwnR7cZ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Rivers and Roads",
+            "artist": "The Head and the Heart",
+            "spotifyId": "4X6aeSW2bhlbm7YyEstj6Y",
+            "uri": "spotify:track:4X6aeSW2bhlbm7YyEstj6Y",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Emmylou",
+            "artist": "First Aid Kit",
+            "spotifyId": "2bU3gg0M8GGBs7ItBKsJX9",
+            "uri": "spotify:track:2bU3gg0M8GGBs7ItBKsJX9",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Poison & Wine",
+            "artist": "The Civil Wars",
+            "spotifyId": "5eNYumDY5PCXtKKJ0SWg2r",
+            "uri": "spotify:track:5eNYumDY5PCXtKKJ0SWg2r",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Relajación",
+    "wines": [
+      {
+        "type": "Vino Tinto",
+        "songs": [
+          {
+            "title": "Caribbean Blue",
+            "artist": "Enya",
+            "spotifyId": "5KZ4DC772dYcRBAizx0yYk",
+            "uri": "spotify:track:5KZ4DC772dYcRBAizx0yYk",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Adagio in C Minor",
+            "artist": "Yanni",
+            "spotifyId": "5bgN9yDOfzFZFf9LpSIlC5",
+            "uri": "spotify:track:5bgN9yDOfzFZFf9LpSIlC5",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Colors/Dance",
+            "artist": "George Winston",
+            "spotifyId": "4b8BOOFTS7SGOmCeqCnX1M",
+            "uri": "spotify:track:4b8BOOFTS7SGOmCeqCnX1M",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "On the Nature of Daylight",
+            "artist": "Max Richter",
+            "spotifyId": "56oReVXIfUO9xkX7pHmEU0",
+            "uri": "spotify:track:56oReVXIfUO9xkX7pHmEU0",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Ambient 1: Music for Airports",
+            "artist": "Brian Eno",
+            "spotifyId": "3bCmDqflFBHijgJfvtqev5",
+            "uri": "spotify:track:3bCmDqflFBHijgJfvtqev5",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Sæglópur",
+            "artist": "Sigur Rós",
+            "spotifyId": "2KvIO4ew1TGnz1VfTJk49g",
+            "uri": "spotify:track:2KvIO4ew1TGnz1VfTJk49g",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Says",
+            "artist": "Nils Frahm",
+            "spotifyId": "5626KdflSKfeDK7RJQfSrE",
+            "uri": "spotify:track:5626KdflSKfeDK7RJQfSrE",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Saman",
+            "artist": "Ólafur Arnalds",
+            "spotifyId": "5RqKo9P4DLA0bVyY70cWkr",
+            "uri": "spotify:track:5RqKo9P4DLA0bVyY70cWkr",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Merry Christmas Mr. Lawrence",
+            "artist": "Ryuichi Sakamoto",
+            "spotifyId": "5VuwAhMCz9EMg3RHL1KUEr",
+            "uri": "spotify:track:5VuwAhMCz9EMg3RHL1KUEr",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Morning Fog",
+            "artist": "Kate Bush",
+            "spotifyId": "4HJDV4WK5UsBs0EeIJwOre",
+            "uri": "spotify:track:4HJDV4WK5UsBs0EeIJwOre",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Blue in Green",
+            "artist": "Miles Davis",
+            "spotifyId": "0aWMVrwxPNYkKmFthzmpRi",
+            "uri": "spotify:track:0aWMVrwxPNYkKmFthzmpRi",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Naima",
+            "artist": "John Coltrane",
+            "spotifyId": "5cAwEKmadsW4nCYe9QUvgU",
+            "uri": "spotify:track:5cAwEKmadsW4nCYe9QUvgU",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Waltz for Debby",
+            "artist": "Bill Evans",
+            "spotifyId": "49H4LDNFE5BU7ZMIg8UsZy",
+            "uri": "spotify:track:49H4LDNFE5BU7ZMIg8UsZy",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Maiden Voyage",
+            "artist": "Herbie Hancock",
+            "spotifyId": "0T1EaGm6b9eM7xBf4F1hlc",
+            "uri": "spotify:track:0T1EaGm6b9eM7xBf4F1hlc",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Round Midnight",
+            "artist": "Thelonious Monk",
+            "spotifyId": "1wl5b2lw3YagQtZiYZbQWP",
+            "uri": "spotify:track:1wl5b2lw3YagQtZiYZbQWP",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Blanco",
+        "songs": [
+          {
+            "title": "Clair de Lune",
+            "artist": "Debussy",
+            "spotifyId": "5ugBexuyPh5ruJKYGQ3eQ1",
+            "uri": "spotify:track:5ugBexuyPh5ruJKYGQ3eQ1",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Nocturne in E-flat Major, Op. 9 No. 2",
+            "artist": "Chopin",
+            "spotifyId": "1VNvsvEsUpuUCbHpVop1vo",
+            "uri": "spotify:track:1VNvsvEsUpuUCbHpVop1vo",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Gymnopédie No. 1",
+            "artist": "Satie",
+            "spotifyId": "5NGtFXVpXSvwunEIGeviY3",
+            "uri": "spotify:track:5NGtFXVpXSvwunEIGeviY3",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Metamorphosis Two",
+            "artist": "Philip Glass",
+            "spotifyId": "5oGc3vAHn2LQI17rMn1znd",
+            "uri": "spotify:track:5oGc3vAHn2LQI17rMn1znd",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Spiegel im Spiegel",
+            "artist": "Arvo Pärt",
+            "spotifyId": "7zHd9LxIZB8WKosSWN9Umj",
+            "uri": "spotify:track:7zHd9LxIZB8WKosSWN9Umj",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Nuvole Bianche",
+            "artist": "Ludovico Einaudi",
+            "spotifyId": "3weNRklVDqb4Rr5MhKBR3D",
+            "uri": "spotify:track:3weNRklVDqb4Rr5MhKBR3D",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Bach: Cello Suite No. 1",
+            "artist": "Yo-Yo Ma",
+            "spotifyId": "17i5jLpzndlQhbS4SrTd0B",
+            "uri": "spotify:track:17i5jLpzndlQhbS4SrTd0B",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Only Time",
+            "artist": "Enya",
+            "spotifyId": "6FLwmdmW77N1Pxb1aWsZmO",
+            "uri": "spotify:track:6FLwmdmW77N1Pxb1aWsZmO",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "On the Nature of Daylight",
+            "artist": "Max Richter",
+            "spotifyId": "56oReVXIfUO9xkX7pHmEU0",
+            "uri": "spotify:track:56oReVXIfUO9xkX7pHmEU0",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Comptine d'un autre été",
+            "artist": "Yann Tiersen",
+            "spotifyId": "14rZjW3RioG7WesZhYESso",
+            "uri": "spotify:track:14rZjW3RioG7WesZhYESso",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Hoppípolla",
+            "artist": "Sigur Rós",
+            "spotifyId": "6eTGxxQxiTFE6LfZHC33Wm",
+            "uri": "spotify:track:6eTGxxQxiTFE6LfZHC33Wm",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Says",
+            "artist": "Nils Frahm",
+            "spotifyId": "5626KdflSKfeDK7RJQfSrE",
+            "uri": "spotify:track:5626KdflSKfeDK7RJQfSrE",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Saman",
+            "artist": "Ólafur Arnalds",
+            "spotifyId": "5RqKo9P4DLA0bVyY70cWkr",
+            "uri": "spotify:track:5RqKo9P4DLA0bVyY70cWkr",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Merry Christmas Mr. Lawrence",
+            "artist": "Ryuichi Sakamoto",
+            "spotifyId": "5VuwAhMCz9EMg3RHL1KUEr",
+            "uri": "spotify:track:5VuwAhMCz9EMg3RHL1KUEr",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Morning Fog",
+            "artist": "Kate Bush",
+            "spotifyId": "4HJDV4WK5UsBs0EeIJwOre",
+            "uri": "spotify:track:4HJDV4WK5UsBs0EeIJwOre",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Rosado",
+        "songs": [
+          {
+            "title": "Banana Pancakes",
+            "artist": "Jack Johnson",
+            "spotifyId": "0BgbobvykXxEvxo2HhCuvM",
+            "uri": "spotify:track:0BgbobvykXxEvxo2HhCuvM",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Ho Hey",
+            "artist": "The Lumineers",
+            "spotifyId": "0DwClY2t9YAWHBROMIgrXb",
+            "uri": "spotify:track:0DwClY2t9YAWHBROMIgrXb",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Mess Is Mine",
+            "artist": "Vance Joy",
+            "spotifyId": "6IJXxWAHTVORSyl7lT5pkY",
+            "uri": "spotify:track:6IJXxWAHTVORSyl7lT5pkY",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Steal My Kisses",
+            "artist": "Ben Harper",
+            "spotifyId": "0RAbLZiTX9kJHjVuThtjSM",
+            "uri": "spotify:track:0RAbLZiTX9kJHjVuThtjSM",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Lucky",
+            "artist": "Jason Mraz ft. Colbie Caillat",
+            "spotifyId": "7DagznAXdq3Ji5MvtkpB66",
+            "uri": "spotify:track:7DagznAXdq3Ji5MvtkpB66",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Sunrise",
+            "artist": "Norah Jones",
+            "spotifyId": "7zkLpY72g6lKQbiHDqri1S",
+            "uri": "spotify:track:7zkLpY72g6lKQbiHDqri1S",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Trouble Sleeping",
+            "artist": "Corinne Bailey Rae",
+            "spotifyId": "7m8PDR3PRg5lPhWMdYrktc",
+            "uri": "spotify:track:7m8PDR3PRg5lPhWMdYrktc",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Way I Am",
+            "artist": "Ingrid Michaelson",
+            "spotifyId": "43ddJFnP8m3PzNJXiHuiyJ",
+            "uri": "spotify:track:43ddJFnP8m3PzNJXiHuiyJ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Bloom",
+            "artist": "The Paper Kites",
+            "spotifyId": "1HMQmOWrkieKYWlFsjUP3D",
+            "uri": "spotify:track:1HMQmOWrkieKYWlFsjUP3D",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Little Talks",
+            "artist": "Of Monsters and Men",
+            "spotifyId": "2ihCaVdNZmnHZWt0fvAM7B",
+            "uri": "spotify:track:2ihCaVdNZmnHZWt0fvAM7B",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Home",
+            "artist": "Edward Sharpe & The Magnetic Zeros",
+            "spotifyId": "2x1jP9BexWtOKudvuUHbaD",
+            "uri": "spotify:track:2x1jP9BexWtOKudvuUHbaD",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I Will Wait",
+            "artist": "Mumford & Sons",
+            "spotifyId": "4kbYevkszYmMhoQcwnR7cZ",
+            "uri": "spotify:track:4kbYevkszYmMhoQcwnR7cZ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Rivers and Roads",
+            "artist": "The Head and the Heart",
+            "spotifyId": "4X6aeSW2bhlbm7YyEstj6Y",
+            "uri": "spotify:track:4X6aeSW2bhlbm7YyEstj6Y",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "My Silver Lining",
+            "artist": "First Aid Kit",
+            "spotifyId": "5BkNCuxzzid0gz9sx3NNbX",
+            "uri": "spotify:track:5BkNCuxzzid0gz9sx3NNbX",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Poison & Wine",
+            "artist": "The Civil Wars",
+            "spotifyId": "5eNYumDY5PCXtKKJ0SWg2r",
+            "uri": "spotify:track:5eNYumDY5PCXtKKJ0SWg2r",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Celebración",
+    "wines": [
+      {
+        "type": "Vino Tinto",
+        "songs": [
+          {
+            "title": "September",
+            "artist": "Earth, Wind & Fire",
+            "spotifyId": "2grjqo0Frpf2okIBiifQKs",
+            "uri": "spotify:track:2grjqo0Frpf2okIBiifQKs",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Superstition",
+            "artist": "Stevie Wonder",
+            "spotifyId": "4N0TP4Rmj6QQezWV88ARNJ",
+            "uri": "spotify:track:4N0TP4Rmj6QQezWV88ARNJ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I Want You Back",
+            "artist": "The Jackson 5",
+            "spotifyId": "5LxvwujISqiB8vpRYv887S",
+            "uri": "spotify:track:5LxvwujISqiB8vpRYv887S",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Get Up Offa That Thing",
+            "artist": "James Brown",
+            "spotifyId": "5XeSAezNDk9tuw3viiCbZ3",
+            "uri": "spotify:track:5XeSAezNDk9tuw3viiCbZ3",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Respect",
+            "artist": "Aretha Franklin",
+            "spotifyId": "7s25THrKz86DM225dOYwnr",
+            "uri": "spotify:track:7s25THrKz86DM225dOYwnr",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Celebration",
+            "artist": "Kool & The Gang",
+            "spotifyId": "3K7Q9PHUWPTaknlbFPThn2",
+            "uri": "spotify:track:3K7Q9PHUWPTaknlbFPThn2",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Le Freak",
+            "artist": "Chic",
+            "spotifyId": "4qL9VYPB4XwJKAOq4xn2Mh",
+            "uri": "spotify:track:4qL9VYPB4XwJKAOq4xn2Mh",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "We Are Family",
+            "artist": "Sister Sledge",
+            "spotifyId": "3IQFZgYuTXP1ukus0z77ol",
+            "uri": "spotify:track:3IQFZgYuTXP1ukus0z77ol",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Love Train",
+            "artist": "The O'Jays",
+            "spotifyId": "28285KFbyCq8sJofn58qlD",
+            "uri": "spotify:track:28285KFbyCq8sJofn58qlD",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Let's Groove",
+            "artist": "Earth, Wind & Fire",
+            "spotifyId": "3koCCeSaVUyrRo3N2gHrd8",
+            "uri": "spotify:track:3koCCeSaVUyrRo3N2gHrd8",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "1999",
+            "artist": "Prince",
+            "spotifyId": "2H7PHVdQ3mXqEHXcvclTB0",
+            "uri": "spotify:track:2H7PHVdQ3mXqEHXcvclTB0",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Billie Jean",
+            "artist": "Michael Jackson",
+            "spotifyId": "5ChkMS8OtdzJeqyybCc9R5",
+            "uri": "spotify:track:5ChkMS8OtdzJeqyybCc9R5",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "My Girl",
+            "artist": "The Temptations",
+            "spotifyId": "745H5CctFr12Mo7cqa1BMH",
+            "uri": "spotify:track:745H5CctFr12Mo7cqa1BMH",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Ain't No Mountain High Enough",
+            "artist": "Marvin Gaye",
+            "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
+            "uri": "spotify:track:7tqhbajSfrz2F7E1Z75ASX",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "You Can't Hurry Love",
+            "artist": "The Supremes",
+            "spotifyId": "1OppEieGNdItZbE14gLBEv",
+            "uri": "spotify:track:1OppEieGNdItZbE14gLBEv",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Blanco",
+        "songs": [
+          {
+            "title": "Mamma Mia",
+            "artist": "ABBA",
+            "spotifyId": "2TxCwUlqaOH3TIyJqGgR91",
+            "uri": "spotify:track:2TxCwUlqaOH3TIyJqGgR91",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Night Fever",
+            "artist": "Bee Gees",
+            "spotifyId": "5KgbyD2lQQlIupAaPjgiXg",
+            "uri": "spotify:track:5KgbyD2lQQlIupAaPjgiXg",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Never Can Say Goodbye",
+            "artist": "Gloria Gaynor",
+            "spotifyId": "1nvWbwYHXGocLrI5cfOSit",
+            "uri": "spotify:track:1nvWbwYHXGocLrI5cfOSit",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Jump (For My Love)",
+            "artist": "The Pointer Sisters",
+            "spotifyId": "3L9ClO1W5KmebIXTrlKShF",
+            "uri": "spotify:track:3L9ClO1W5KmebIXTrlKShF",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Last Dance",
+            "artist": "Donna Summer",
+            "spotifyId": "5fKTkCOpnyJko7jZqpbJnX",
+            "uri": "spotify:track:5fKTkCOpnyJko7jZqpbJnX",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "September",
+            "artist": "Earth, Wind & Fire",
+            "spotifyId": "2grjqo0Frpf2okIBiifQKs",
+            "uri": "spotify:track:2grjqo0Frpf2okIBiifQKs",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Signed, Sealed, Delivered I'm Yours",
+            "artist": "Stevie Wonder",
+            "spotifyId": "0kzhMZZNmxiLG7qyJhVBHB",
+            "uri": "spotify:track:0kzhMZZNmxiLG7qyJhVBHB",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "ABC",
+            "artist": "The Jackson 5",
+            "spotifyId": "6D8kc7RO0rqBLSo2YPflJ5",
+            "uri": "spotify:track:6D8kc7RO0rqBLSo2YPflJ5",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I Got You (I Feel Good)",
+            "artist": "James Brown",
+            "spotifyId": "5haXbSJqjjM0TCJ5XkfEaC",
+            "uri": "spotify:track:5haXbSJqjjM0TCJ5XkfEaC",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Think",
+            "artist": "Aretha Franklin",
+            "spotifyId": "4yQw7FR9lcvL6RHtegbJBh",
+            "uri": "spotify:track:4yQw7FR9lcvL6RHtegbJBh",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Get Down On It",
+            "artist": "Kool & The Gang",
+            "spotifyId": "4Cv6ongCvJy9JfSkWVnb5D",
+            "uri": "spotify:track:4Cv6ongCvJy9JfSkWVnb5D",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Good Times",
+            "artist": "Chic",
+            "spotifyId": "0G3fbPbE1vGeABDEZF0jeG",
+            "uri": "spotify:track:0G3fbPbE1vGeABDEZF0jeG",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "He's the Greatest Dancer",
+            "artist": "Sister Sledge",
+            "spotifyId": "5WwRKYnVy9dekqXAGPbAvU",
+            "uri": "spotify:track:5WwRKYnVy9dekqXAGPbAvU",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I Love Music",
+            "artist": "The O'Jays",
+            "spotifyId": "222TScMmzaZ0IdkvbLoin2",
+            "uri": "spotify:track:222TScMmzaZ0IdkvbLoin2",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Fantasy",
+            "artist": "Earth, Wind & Fire",
+            "spotifyId": "2GH5jo15wbTv1Ll7zXEzSg",
+            "uri": "spotify:track:2GH5jo15wbTv1Ll7zXEzSg",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Rosado",
+        "songs": [
+          {
+            "title": "Happy",
+            "artist": "Pharrell Williams",
+            "spotifyId": "60nZcImufyMA1MKQY3dcCH",
+            "uri": "spotify:track:60nZcImufyMA1MKQY3dcCH",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Uptown Funk",
+            "artist": "Mark Ronson ft. Bruno Mars",
+            "spotifyId": "1YILIKjno1jrlDhPDmAZtO",
+            "uri": "spotify:track:1YILIKjno1jrlDhPDmAZtO",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Hey Ya!",
+            "artist": "OutKast",
+            "spotifyId": "2PpruBYCo4H7WOBJ7Q2EwM",
+            "uri": "spotify:track:2PpruBYCo4H7WOBJ7Q2EwM",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Can't Stop the Feeling!",
+            "artist": "Justin Timberlake",
+            "spotifyId": "6JV2JOEocMgcZxYSZelKcc",
+            "uri": "spotify:track:6JV2JOEocMgcZxYSZelKcc",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Get Lucky",
+            "artist": "Daft Punk ft. Pharrell Williams",
+            "spotifyId": "2jyjdujFPnzqtCr3229yls",
+            "uri": "spotify:track:2jyjdujFPnzqtCr3229yls",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Dancing Queen",
+            "artist": "ABBA",
+            "spotifyId": "0GjEhVFGZW8afUYGChu3Rr",
+            "uri": "spotify:track:0GjEhVFGZW8afUYGChu3Rr",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Stayin' Alive",
+            "artist": "Bee Gees",
+            "spotifyId": "5ubvP9oKmxLUVq506fgLhk",
+            "uri": "spotify:track:5ubvP9oKmxLUVq506fgLhk",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I Will Survive",
+            "artist": "Gloria Gaynor",
+            "spotifyId": "7rIovIsXE6kMn629b7kDig",
+            "uri": "spotify:track:7rIovIsXE6kMn629b7kDig",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I'm So Excited",
+            "artist": "The Pointer Sisters",
+            "spotifyId": "1ot6jEe4w4hYnsOPjd3xKQ",
+            "uri": "spotify:track:1ot6jEe4w4hYnsOPjd3xKQ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Hot Stuff",
+            "artist": "Donna Summer",
+            "spotifyId": "2zMJN9JvDlvGP4jB03l1Bz",
+            "uri": "spotify:track:2zMJN9JvDlvGP4jB03l1Bz",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "September",
+            "artist": "Earth, Wind & Fire",
+            "spotifyId": "2grjqo0Frpf2okIBiifQKs",
+            "uri": "spotify:track:2grjqo0Frpf2okIBiifQKs",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Superstition",
+            "artist": "Stevie Wonder",
+            "spotifyId": "4N0TP4Rmj6QQezWV88ARNJ",
+            "uri": "spotify:track:4N0TP4Rmj6QQezWV88ARNJ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I Want You Back",
+            "artist": "The Jackson 5",
+            "spotifyId": "5LxvwujISqiB8vpRYv887S",
+            "uri": "spotify:track:5LxvwujISqiB8vpRYv887S",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Get Up Offa That Thing",
+            "artist": "James Brown",
+            "spotifyId": "5XeSAezNDk9tuw3viiCbZ3",
+            "uri": "spotify:track:5XeSAezNDk9tuw3viiCbZ3",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Respect",
+            "artist": "Aretha Franklin",
+            "spotifyId": "7s25THrKz86DM225dOYwnr",
+            "uri": "spotify:track:7s25THrKz86DM225dOYwnr",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fiesta",
+    "wines": [
+      {
+        "type": "Vino Tinto",
+        "songs": [
+          {
+            "title": "Hips Don't Lie",
+            "artist": "Shakira",
+            "spotifyId": "3ZFTkvIE7kyPt6Nu3PEa7V",
+            "uri": "spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Give Me Everything",
+            "artist": "Pitbull ft. Ne-Yo",
+            "spotifyId": "08JkObYbk6qt1Fr9B4Xlbq",
+            "uri": "spotify:track:08JkObYbk6qt1Fr9B4Xlbq",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "On the Floor",
+            "artist": "Jennifer Lopez",
+            "spotifyId": "3C0nOe05EIt1390bVABLyN",
+            "uri": "spotify:track:3C0nOe05EIt1390bVABLyN",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Gasolina",
+            "artist": "Daddy Yankee",
+            "spotifyId": "5YoITs1m0q8UOQ4AW7N5ga",
+            "uri": "spotify:track:5YoITs1m0q8UOQ4AW7N5ga",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Mi Gente",
+            "artist": "J Balvin",
+            "spotifyId": "4ipnJyDU3Lq15qBAYNqlqK",
+            "uri": "spotify:track:4ipnJyDU3Lq15qBAYNqlqK",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Despacito",
+            "artist": "Luis Fonsi ft. Daddy Yankee",
+            "spotifyId": "5oO6i1qhCc6VXvHMvoPFpi",
+            "uri": "spotify:track:5oO6i1qhCc6VXvHMvoPFpi",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Safaera",
+            "artist": "Bad Bunny",
+            "spotifyId": "2DEZmgHKAvm41k4J3R2E9Y",
+            "uri": "spotify:track:2DEZmgHKAvm41k4J3R2E9Y",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Hawái",
+            "artist": "Maluma",
+            "spotifyId": "1yoMvmasuxZfqHEipJhRbp",
+            "uri": "spotify:track:1yoMvmasuxZfqHEipJhRbp",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Tusa",
+            "artist": "Karol G",
+            "spotifyId": "7k4t7uLgtOxPwTpFmtJNTY",
+            "uri": "spotify:track:7k4t7uLgtOxPwTpFmtJNTY",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Taki Taki",
+            "artist": "Ozuna",
+            "spotifyId": "4w8niZpiMy6qz1mntFA5uM",
+            "uri": "spotify:track:4w8niZpiMy6qz1mntFA5uM",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Feel So Close",
+            "artist": "Calvin Harris",
+            "spotifyId": "1gihuPhrLraKYrJMAEONyc",
+            "uri": "spotify:track:1gihuPhrLraKYrJMAEONyc",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Titanium",
+            "artist": "David Guetta ft. Sia",
+            "spotifyId": "4oB0FiIff4FcjApbrhDMbi",
+            "uri": "spotify:track:4oB0FiIff4FcjApbrhDMbi",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Levels",
+            "artist": "Avicii",
+            "spotifyId": "6Xe9wT5xeZETPwtaP2ynUz",
+            "uri": "spotify:track:6Xe9wT5xeZETPwtaP2ynUz",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Closer",
+            "artist": "The Chainsmokers",
+            "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
+            "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Stay",
+            "artist": "Zedd ft. Alessia Cara",
+            "spotifyId": "2QtJA4gbwe1AcanB2p21aP",
+            "uri": "spotify:track:2QtJA4gbwe1AcanB2p21aP",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Blanco",
+        "songs": [
+          {
+            "title": "Feel So Close",
+            "artist": "Calvin Harris",
+            "spotifyId": "1gihuPhrLraKYrJMAEONyc",
+            "uri": "spotify:track:1gihuPhrLraKYrJMAEONyc",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Titanium",
+            "artist": "David Guetta ft. Sia",
+            "spotifyId": "4oB0FiIff4FcjApbrhDMbi",
+            "uri": "spotify:track:4oB0FiIff4FcjApbrhDMbi",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Levels",
+            "artist": "Avicii",
+            "spotifyId": "6Xe9wT5xeZETPwtaP2ynUz",
+            "uri": "spotify:track:6Xe9wT5xeZETPwtaP2ynUz",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Closer",
+            "artist": "The Chainsmokers",
+            "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
+            "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Stay",
+            "artist": "Zedd ft. Alessia Cara",
+            "spotifyId": "2QtJA4gbwe1AcanB2p21aP",
+            "uri": "spotify:track:2QtJA4gbwe1AcanB2p21aP",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Just Dance",
+            "artist": "Lady Gaga",
+            "spotifyId": "2x7MyWybabEz6Y6wvHuwGE",
+            "uri": "spotify:track:2x7MyWybabEz6Y6wvHuwGE",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Single Ladies (Put a Ring on It)",
+            "artist": "Beyoncé",
+            "spotifyId": "5R9a4t5t5O0IsznsrKPVro",
+            "uri": "spotify:track:5R9a4t5t5O0IsznsrKPVro",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Don't Stop the Music",
+            "artist": "Rihanna",
+            "spotifyId": "0ByMNEPAPpOR5H69DVrTNy",
+            "uri": "spotify:track:0ByMNEPAPpOR5H69DVrTNy",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Firework",
+            "artist": "Katy Perry",
+            "spotifyId": "4lCv7b86sLynZbXhfScfm2",
+            "uri": "spotify:track:4lCv7b86sLynZbXhfScfm2",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "24K Magic",
+            "artist": "Bruno Mars",
+            "spotifyId": "6b8Be6ljOzmkOmFslEb23P",
+            "uri": "spotify:track:6b8Be6ljOzmkOmFslEb23P",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "One Dance",
+            "artist": "Drake",
+            "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
+            "uri": "spotify:track:1zi7xx7UVEFkmKfv06H8x0",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Blinding Lights",
+            "artist": "The Weeknd",
+            "spotifyId": "0VjIjW4GlUZAMYd2vXMi3b",
+            "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Don't Start Now",
+            "artist": "Dua Lipa",
+            "spotifyId": "3PfIrDoz19wz7qK7tYeu62",
+            "uri": "spotify:track:3PfIrDoz19wz7qK7tYeu62",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Bad Guy",
+            "artist": "Billie Eilish",
+            "spotifyId": "2Fxmhks0bxGSBdJ92vM42m",
+            "uri": "spotify:track:2Fxmhks0bxGSBdJ92vM42m",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Circles",
+            "artist": "Post Malone",
+            "spotifyId": "21jGcNKet2qwijlDFuPiPb",
+            "uri": "spotify:track:21jGcNKet2qwijlDFuPiPb",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Rosado",
+        "songs": [
+          {
+            "title": "Despacito",
+            "artist": "Luis Fonsi ft. Daddy Yankee",
+            "spotifyId": "5oO6i1qhCc6VXvHMvoPFpi",
+            "uri": "spotify:track:5oO6i1qhCc6VXvHMvoPFpi",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Safaera",
+            "artist": "Bad Bunny",
+            "spotifyId": "2DEZmgHKAvm41k4J3R2E9Y",
+            "uri": "spotify:track:2DEZmgHKAvm41k4J3R2E9Y",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Hawái",
+            "artist": "Maluma",
+            "spotifyId": "1yoMvmasuxZfqHEipJhRbp",
+            "uri": "spotify:track:1yoMvmasuxZfqHEipJhRbp",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Tusa",
+            "artist": "Karol G",
+            "spotifyId": "7k4t7uLgtOxPwTpFmtJNTY",
+            "uri": "spotify:track:7k4t7uLgtOxPwTpFmtJNTY",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Taki Taki",
+            "artist": "Ozuna",
+            "spotifyId": "4w8niZpiMy6qz1mntFA5uM",
+            "uri": "spotify:track:4w8niZpiMy6qz1mntFA5uM",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Hips Don't Lie",
+            "artist": "Shakira",
+            "spotifyId": "3ZFTkvIE7kyPt6Nu3PEa7V",
+            "uri": "spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Give Me Everything",
+            "artist": "Pitbull ft. Ne-Yo",
+            "spotifyId": "08JkObYbk6qt1Fr9B4Xlbq",
+            "uri": "spotify:track:08JkObYbk6qt1Fr9B4Xlbq",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "On the Floor",
+            "artist": "Jennifer Lopez",
+            "spotifyId": "3C0nOe05EIt1390bVABLyN",
+            "uri": "spotify:track:3C0nOe05EIt1390bVABLyN",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Gasolina",
+            "artist": "Daddy Yankee",
+            "spotifyId": "5YoITs1m0q8UOQ4AW7N5ga",
+            "uri": "spotify:track:5YoITs1m0q8UOQ4AW7N5ga",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Mi Gente",
+            "artist": "J Balvin",
+            "spotifyId": "4ipnJyDU3Lq15qBAYNqlqK",
+            "uri": "spotify:track:4ipnJyDU3Lq15qBAYNqlqK",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Feel So Close",
+            "artist": "Calvin Harris",
+            "spotifyId": "1gihuPhrLraKYrJMAEONyc",
+            "uri": "spotify:track:1gihuPhrLraKYrJMAEONyc",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Titanium",
+            "artist": "David Guetta ft. Sia",
+            "spotifyId": "4oB0FiIff4FcjApbrhDMbi",
+            "uri": "spotify:track:4oB0FiIff4FcjApbrhDMbi",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Levels",
+            "artist": "Avicii",
+            "spotifyId": "6Xe9wT5xeZETPwtaP2ynUz",
+            "uri": "spotify:track:6Xe9wT5xeZETPwtaP2ynUz",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Closer",
+            "artist": "The Chainsmokers",
+            "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
+            "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Stay",
+            "artist": "Zedd ft. Alessia Cara",
+            "spotifyId": "2QtJA4gbwe1AcanB2p21aP",
+            "uri": "spotify:track:2QtJA4gbwe1AcanB2p21aP",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Romántico",
+    "wines": [
+      {
+        "type": "Vino Tinto",
+        "songs": [
+          {
+            "title": "Perfect",
+            "artist": "Ed Sheeran",
+            "spotifyId": "0tgVpDi06FyKpA1z0VMD4v",
+            "uri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "All of Me",
+            "artist": "John Legend",
+            "spotifyId": "3U4isOIWM3VvDubwSI3y7a",
+            "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "At Last",
+            "artist": "Etta James",
+            "spotifyId": "4Hhv2vrOTy89HFRcjU3QOx",
+            "uri": "spotify:track:4Hhv2vrOTy89HFRcjU3QOx",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Let's Get It On",
+            "artist": "Marvin Gaye",
+            "spotifyId": "5yr8pi3uCjTYOnTqstBBdm",
+            "uri": "spotify:track:5yr8pi3uCjTYOnTqstBBdm",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "If I Ain't Got You",
+            "artist": "Alicia Keys",
+            "spotifyId": "3XVBdLihbNbxUwZosxcGuJ",
+            "uri": "spotify:track:3XVBdLihbNbxUwZosxcGuJ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Someone Like You",
+            "artist": "Adele",
+            "spotifyId": "1zwMYTA5nlNjZxYrvBB2pV",
+            "uri": "spotify:track:1zwMYTA5nlNjZxYrvBB2pV",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Marry You",
+            "artist": "Bruno Mars",
+            "spotifyId": "6SKwQghsR8AISlxhcwyA9R",
+            "uri": "spotify:track:6SKwQghsR8AISlxhcwyA9R",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Stay With Me",
+            "artist": "Sam Smith",
+            "spotifyId": "5Nm9ERjJZ5oyfXZTECKmRt",
+            "uri": "spotify:track:5Nm9ERjJZ5oyfXZTECKmRt",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Say You Won't Let Go",
+            "artist": "James Arthur",
+            "spotifyId": "5uCax9HTNlzGybIStD3vDh",
+            "uri": "spotify:track:5uCax9HTNlzGybIStD3vDh",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "A Thousand Years",
+            "artist": "Christina Perri",
+            "spotifyId": "6lanRgr6wXibZr8KgzXxBl",
+            "uri": "spotify:track:6lanRgr6wXibZr8KgzXxBl",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "La Vie en Rose",
+            "artist": "Louis Armstrong",
+            "spotifyId": "0zDVclPMSsjeyvbnqhWOmt",
+            "uri": "spotify:track:0zDVclPMSsjeyvbnqhWOmt",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Way You Look Tonight",
+            "artist": "Frank Sinatra",
+            "spotifyId": "0elmUoU7eMPwZX1Mw1MnQo",
+            "uri": "spotify:track:0elmUoU7eMPwZX1Mw1MnQo",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Lullaby of Birdland",
+            "artist": "Ella Fitzgerald",
+            "spotifyId": "4JQiUSWsle7d4MAnsSi3hO",
+            "uri": "spotify:track:4JQiUSWsle7d4MAnsSi3hO",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Lady Is a Tramp",
+            "artist": "Tony Bennett & Lady Gaga",
+            "spotifyId": "6ZsKRsnPsdZvXfqqE6bTPy",
+            "uri": "spotify:track:6ZsKRsnPsdZvXfqqE6bTPy",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "That's Amore",
+            "artist": "Dean Martin",
+            "spotifyId": "5vtJAOVULbRPP0Ux6PPmpP",
+            "uri": "spotify:track:5vtJAOVULbRPP0Ux6PPmpP",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Blanco",
+        "songs": [
+          {
+            "title": "Your Song",
+            "artist": "Elton John",
+            "spotifyId": "38zsOOcu31XbbYj9BIPUF1",
+            "uri": "spotify:track:38zsOOcu31XbbYj9BIPUF1",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Can't Get Enough of Your Love, Babe",
+            "artist": "Barry White",
+            "spotifyId": "3mWpUEBYnv9SIFWfixSJFx",
+            "uri": "spotify:track:3mWpUEBYnv9SIFWfixSJFx",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "I Will Always Love You",
+            "artist": "Whitney Houston",
+            "spotifyId": "4eHbdreAnSOrDDsFfc4Fpm",
+            "uri": "spotify:track:4eHbdreAnSOrDDsFfc4Fpm",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Endless Love",
+            "artist": "Lionel Richie & Diana Ross",
+            "spotifyId": "5iwyLsQ5yjnCaRrJGyAPZM",
+            "uri": "spotify:track:5iwyLsQ5yjnCaRrJGyAPZM",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "It's All Coming Back to Me Now",
+            "artist": "Celine Dion",
+            "spotifyId": "5EQzuYfTZt7B2LqlvTF49l",
+            "uri": "spotify:track:5EQzuYfTZt7B2LqlvTF49l",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Perfect",
+            "artist": "Ed Sheeran",
+            "spotifyId": "0tgVpDi06FyKpA1z0VMD4v",
+            "uri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "All of Me",
+            "artist": "John Legend",
+            "spotifyId": "3U4isOIWM3VvDubwSI3y7a",
+            "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "At Last",
+            "artist": "Etta James",
+            "spotifyId": "4Hhv2vrOTy89HFRcjU3QOx",
+            "uri": "spotify:track:4Hhv2vrOTy89HFRcjU3QOx",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Let's Get It On",
+            "artist": "Marvin Gaye",
+            "spotifyId": "5yr8pi3uCjTYOnTqstBBdm",
+            "uri": "spotify:track:5yr8pi3uCjTYOnTqstBBdm",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "If I Ain't Got You",
+            "artist": "Alicia Keys",
+            "spotifyId": "3XVBdLihbNbxUwZosxcGuJ",
+            "uri": "spotify:track:3XVBdLihbNbxUwZosxcGuJ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Someone Like You",
+            "artist": "Adele",
+            "spotifyId": "1zwMYTA5nlNjZxYrvBB2pV",
+            "uri": "spotify:track:1zwMYTA5nlNjZxYrvBB2pV",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Marry You",
+            "artist": "Bruno Mars",
+            "spotifyId": "6SKwQghsR8AISlxhcwyA9R",
+            "uri": "spotify:track:6SKwQghsR8AISlxhcwyA9R",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Stay With Me",
+            "artist": "Sam Smith",
+            "spotifyId": "5Nm9ERjJZ5oyfXZTECKmRt",
+            "uri": "spotify:track:5Nm9ERjJZ5oyfXZTECKmRt",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Say You Won't Let Go",
+            "artist": "James Arthur",
+            "spotifyId": "5uCax9HTNlzGybIStD3vDh",
+            "uri": "spotify:track:5uCax9HTNlzGybIStD3vDh",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "A Thousand Years",
+            "artist": "Christina Perri",
+            "spotifyId": "6lanRgr6wXibZr8KgzXxBl",
+            "uri": "spotify:track:6lanRgr6wXibZr8KgzXxBl",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      },
+      {
+        "type": "Vino Rosado",
+        "songs": [
+          {
+            "title": "Someone Like You",
+            "artist": "Adele",
+            "spotifyId": "1zwMYTA5nlNjZxYrvBB2pV",
+            "uri": "spotify:track:1zwMYTA5nlNjZxYrvBB2pV",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Marry You",
+            "artist": "Bruno Mars",
+            "spotifyId": "6SKwQghsR8AISlxhcwyA9R",
+            "uri": "spotify:track:6SKwQghsR8AISlxhcwyA9R",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Stay With Me",
+            "artist": "Sam Smith",
+            "spotifyId": "5Nm9ERjJZ5oyfXZTECKmRt",
+            "uri": "spotify:track:5Nm9ERjJZ5oyfXZTECKmRt",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Say You Won't Let Go",
+            "artist": "James Arthur",
+            "spotifyId": "5uCax9HTNlzGybIStD3vDh",
+            "uri": "spotify:track:5uCax9HTNlzGybIStD3vDh",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "A Thousand Years",
+            "artist": "Christina Perri",
+            "spotifyId": "6lanRgr6wXibZr8KgzXxBl",
+            "uri": "spotify:track:6lanRgr6wXibZr8KgzXxBl",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Perfect",
+            "artist": "Ed Sheeran",
+            "spotifyId": "0tgVpDi06FyKpA1z0VMD4v",
+            "uri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "All of Me",
+            "artist": "John Legend",
+            "spotifyId": "3U4isOIWM3VvDubwSI3y7a",
+            "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "At Last",
+            "artist": "Etta James",
+            "spotifyId": "4Hhv2vrOTy89HFRcjU3QOx",
+            "uri": "spotify:track:4Hhv2vrOTy89HFRcjU3QOx",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Let's Get It On",
+            "artist": "Marvin Gaye",
+            "spotifyId": "5yr8pi3uCjTYOnTqstBBdm",
+            "uri": "spotify:track:5yr8pi3uCjTYOnTqstBBdm",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "If I Ain't Got You",
+            "artist": "Alicia Keys",
+            "spotifyId": "3XVBdLihbNbxUwZosxcGuJ",
+            "uri": "spotify:track:3XVBdLihbNbxUwZosxcGuJ",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "La Vie en Rose",
+            "artist": "Louis Armstrong",
+            "spotifyId": "0zDVclPMSsjeyvbnqhWOmt",
+            "uri": "spotify:track:0zDVclPMSsjeyvbnqhWOmt",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Way You Look Tonight",
+            "artist": "Frank Sinatra",
+            "spotifyId": "0elmUoU7eMPwZX1Mw1MnQo",
+            "uri": "spotify:track:0elmUoU7eMPwZX1Mw1MnQo",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "Lullaby of Birdland",
+            "artist": "Ella Fitzgerald",
+            "spotifyId": "4JQiUSWsle7d4MAnsSi3hO",
+            "uri": "spotify:track:4JQiUSWsle7d4MAnsSi3hO",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "The Lady Is a Tramp",
+            "artist": "Tony Bennett & Lady Gaga",
+            "spotifyId": "6ZsKRsnPsdZvXfqqE6bTPy",
+            "uri": "spotify:track:6ZsKRsnPsdZvXfqqE6bTPy",
+            "previewUrl": null,
+            "status": "found"
+          },
+          {
+            "title": "That's Amore",
+            "artist": "Dean Martin",
+            "spotifyId": "5vtJAOVULbRPP0Ux6PPmpP",
+            "uri": "spotify:track:5vtJAOVULbRPP0Ux6PPmpP",
+            "previewUrl": null,
+            "status": "found"
+          }
+        ]
+      }
+    ]
+  }
+]
