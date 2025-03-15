@@ -1,4 +1,4 @@
-import { SpotifyApi, AccessToken } from '@spotify/web-api-ts-sdk';
+import { SpotifyApi } from '@spotify/web-api-ts-sdk';
 import { Song, SpotifySong } from '../types';
 import { spotifySongs } from '../data/spotify-songs';
 
@@ -19,156 +19,98 @@ const scopes = [
   'user-read-private'
 ];
 
+// Crear una instancia de la API de Spotify con autorización de usuario
 const sdk = SpotifyApi.withUserAuthorization(
   CLIENT_ID,
   REDIRECT_URI,
   scopes
 );
 
+// Función para verificar si el token está expirado
+const isTokenExpired = () => {
+  const tokenExpirationTime = localStorage.getItem('spotify-sdk:AuthorizationCodeWithPKCE:expiration');
+  if (!tokenExpirationTime) return true;
+  return Date.now() >= parseInt(tokenExpirationTime);
+};
+
 export const refreshSpotifyToken = async () => {
   try {
-    const refreshToken = localStorage.getItem('spotifyRefreshToken');
-    if (!refreshToken) {
-      throw new Error('No hay token de actualización disponible');
-    }
-
-    const response = await fetch('https://accounts.spotify.com/api/token', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
-        'Authorization': `Basic ${btoa(`${CLIENT_ID}:${CLIENT_SECRET}`)}`,
-      },
-      body: new URLSearchParams({
-        grant_type: 'refresh_token',
-        refresh_token: refreshToken,
-      }),
-    });
-
-    if (!response.ok) {
-      throw new Error('Error al renovar el token');
-    }
-
-    const data = await response.json();
-    localStorage.setItem('spotifyAccessToken', data.access_token);
-    if (data.refresh_token) {
-      localStorage.setItem('spotifyRefreshToken', data.refresh_token);
-    }
-    
-    return data.access_token;
+    // Intentar obtener un nuevo token usando el SDK
+    await sdk.authenticate();
+    return true;
   } catch (error) {
     console.error('Error al renovar el token:', error);
     throw error;
   }
 };
 
-// Función para obtener el token actual o renovarlo si es necesario
-async function getValidToken(): Promise<string> {
-  try {
-    const token = await sdk.getAccessToken();
-    if (!token || !token.access_token) {
-      throw new Error('Token no válido');
-    }
-    return token.access_token;
-  } catch (error) {
-    console.error('Error al obtener token:', error);
-    // Si el token no es válido, intentamos renovarlo
-    try {
-      const newToken = await refreshSpotifyToken();
-      if (!newToken) {
-        throw new Error('No se pudo obtener un nuevo token');
-      }
-      return newToken;
-    } catch (refreshError) {
-      console.error('Error al renovar token:', refreshError);
-      throw new Error('La sesión ha expirado. Por favor, inicia sesión nuevamente.');
-    }
-  }
-}
-
 export const spotifyApi = {
   authenticate: async () => {
     try {
-      await sdk.authenticate();
-      // Guardar el refresh token después de la autenticación inicial
-      const token = await sdk.getAccessToken();
-      if (token && token.refresh_token) {
-        localStorage.setItem('spotifyRefreshToken', token.refresh_token);
+      if (isTokenExpired()) {
+        await sdk.authenticate();
       }
     } catch (error) {
       console.error('Error en authenticate:', error);
-      throw error;
+      throw new Error('No se pudo autenticar con Spotify. Por favor, inicia sesión nuevamente.');
     }
   },
   currentUser: {
     profile: async () => {
       try {
-        const token = await getValidToken();
-        const response = await fetch('https://api.spotify.com/v1/me', {
-          headers: {
-            'Authorization': `Bearer ${token}`
-          }
-        });
-
-        if (!response.ok) {
-          throw new Error('Error al obtener perfil de usuario');
+        if (isTokenExpired()) {
+          await sdk.authenticate();
         }
-
-        return response.json();
+        return await sdk.currentUser.profile();
       } catch (error) {
         console.error('Error en profile:', error);
-        throw error;
+        throw new Error('No se pudo obtener el perfil. Por favor, inicia sesión nuevamente.');
       }
     },
   },
   playlists: {
     createPlaylist: async (userId: string, options: { name: string; description: string; public: boolean }) => {
-      const token = await getValidToken();
-      const response = await fetch(`https://api.spotify.com/v1/users/${userId}/playlists`, {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${token}`,
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(options)
-      });
-
-      if (!response.ok) {
-        throw new Error('Error al crear playlist');
+      try {
+        if (isTokenExpired()) {
+          await sdk.authenticate();
+        }
+        return await sdk.playlists.createPlaylist(userId, options);
+      } catch (error) {
+        console.error('Error al crear playlist:', error);
+        throw new Error('No se pudo crear la playlist. Por favor, inicia sesión nuevamente.');
       }
-
-      return response.json();
     },
     updatePlaylistItems: async (playlistId: string, options: { uris: string[] }) => {
-      const token = await getValidToken();
-      const response = await fetch(`https://api.spotify.com/v1/playlists/${playlistId}/tracks`, {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${token}`,
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ uris: options.uris })
-      });
-
-      if (!response.ok) {
-        throw new Error('Error al añadir canciones a la playlist');
+      try {
+        if (isTokenExpired()) {
+          await sdk.authenticate();
+        }
+        return await sdk.playlists.addItemsToPlaylist(playlistId, options.uris);
+      } catch (error) {
+        console.error('Error al actualizar playlist:', error);
+        throw new Error('No se pudieron añadir las canciones. Por favor, inicia sesión nuevamente.');
       }
-
-      return response.json();
     },
     deletePlaylist: async (playlistId: string) => {
-      const token = await getValidToken();
-      const response = await fetch(`https://api.spotify.com/v1/playlists/${playlistId}/followers`, {
-        method: 'DELETE',
-        headers: {
-          'Authorization': `Bearer ${token}`
+      try {
+        if (isTokenExpired()) {
+          await sdk.authenticate();
         }
-      });
-
-      if (!response.ok) {
-        throw new Error('Error al eliminar la playlist');
+        const token = await sdk.getAccessToken();
+        const response = await fetch(`https://api.spotify.com/v1/playlists/${playlistId}/followers`, {
+          method: 'DELETE',
+          headers: {
+            'Authorization': `Bearer ${token}`
+          }
+        });
+        if (!response.ok) {
+          throw new Error('Error al eliminar la playlist');
+        }
+        return true;
+      } catch (error) {
+        console.error('Error al eliminar playlist:', error);
+        throw new Error('No se pudo eliminar la playlist. Por favor, inicia sesión nuevamente.');
       }
-
-      return true;
     }
   }
 };
@@ -176,7 +118,7 @@ export const spotifyApi = {
 export async function searchSpotifyTracks(songs: Song[]): Promise<SpotifySong[]> {
   try {
     const results: SpotifySong[] = [];
-    const token = await getValidToken();
+    const token = await sdk.getAccessToken();
     
     for (const song of songs) {
       try {
