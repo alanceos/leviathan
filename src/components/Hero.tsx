@@ -99,7 +99,7 @@ const Hero = () => {
           className="mt-16 mb-8"
         >
           <motion.img
-            src="/images/lev.gif"
+            src="./images/lev.gif"
             alt="Leviathan Animation"
             className="w-[12rem] md:w-[16rem] rounded-full object-cover mx-auto"
             initial={{ opacity: 0, scale: 0.5 }}
