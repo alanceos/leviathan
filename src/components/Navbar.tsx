@@ -52,7 +52,6 @@ const Navbar = () => {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            <img src="/images/leviathan-logo.png" alt="Leviathan" className="h-10 w-10" />
             <span className="text-[#D4B750] font-bold text-xl tracking-wider">LEVIATHAN</span>
           </motion.a>
 
